@@ -1,4 +1,4 @@
-# manya m
+# Manya 
 
 ## 👋 About Me
 Hello! I'm a passionate developer who enjoys learning new technologies, building projects, and improving problem-solving skills.
